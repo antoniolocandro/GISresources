@@ -1,6 +1,6 @@
 This is a link of materials that may be downloaded or taken online for GIS
 
-### Opensource Software
+## Opensource Software
 Desktop GIS
 
 [QGIS](http://www.qgis.org/en/site/)
@@ -12,11 +12,11 @@ Programming
 [Python](http://www.python.org/)
 
 
-### Archived Webminars
+## Archived Webminars
 2013 - **gvSIG** - Spanish - [Geoprocesamiento Avanzado en gvSIG]( http://mundogeo.com/webinar/gvsig-avanzado/archivos.html) 
 
-### GIS Data
+## GIS Data
 
-##WMS
+###WMS
 [http://www2.demis.nl/mapserver/request.asp?](http://www2.demis.nl/mapserver/request.asp?)
 
