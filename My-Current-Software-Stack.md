@@ -2,7 +2,7 @@
 
 ### At Work
 
-*** WINDOWS 64 bit MACHINE***
+*** WINDOWS 7 - 64 bit MACHINE - 12GB RAM ***
 
 - ESRI ARCGIS ADVANCED DESKTOP without extensions
 - [WGS84 Geodesic Calculator](http://www.pkautomation.com/wgs84_geodesic_calc.html)
