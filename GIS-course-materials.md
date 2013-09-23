@@ -2,10 +2,12 @@ This is a link of materials that may be downloaded or taken online for GIS
 
 ### Opensource Software
 Desktop GIS
+
 [QGIS](http://www.qgis.org/en/site/)
 [gvSIG](http://gvsig.com/)
 
 Programming
+
 [Python](http://www.python.org/)
 
 ### Archived Webminars
