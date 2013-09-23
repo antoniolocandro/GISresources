@@ -4,7 +4,7 @@
 
 *** WINDOWS 7 - 64 bit MACHINE - 12GB RAM ***
 
-- ESRI ARCGIS ADVANCED DESKTOP without extensions
+- ESRI ARCGIS ADVANCED 10.2 DESKTOP without extensions
 - [WGS84 Geodesic Calculator](http://www.pkautomation.com/wgs84_geodesic_calc.html)
 - OSGEO64W 64 bits
 - openlayers plugin / temporary fix for qgis 2.0
