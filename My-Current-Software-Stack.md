@@ -32,5 +32,6 @@
 - geopy
 - spyderlib
 - HexColorFinder
+- spatialite_GUI
 
 
