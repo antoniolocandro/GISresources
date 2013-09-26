@@ -33,5 +33,5 @@
 - spyderlib
 - HexColorFinder
 - spatialite_GUI
-
+- PyCharm 3.0 Community Edition
 
