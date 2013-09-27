@@ -8,7 +8,7 @@ Desktop GIS
 [gvSIG](http://gvsig.com/)
 
 Programming
-
+[Python binaries for Windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona)Here you can get pykml, fiona, shapely and more
 [Python](http://www.python.org/)
 
 
