@@ -34,4 +34,5 @@
 - HexColorFinder
 - spatialite_GUI
 - PyCharm 3.0 Community Edition
+- GeoKettle 2.5 for ETL
 
